@@ -1,6 +1,6 @@
-# intro-pythonedx
+# intro-pythone
 
-Some selected codes that I created through the Edx MIT Intro to Computer Science (Python) course
+Some selected codes that I created through online coursework
 
 alphabetchecker:
   Determines the longest sequence of letters in alphabetic order (given a string)
