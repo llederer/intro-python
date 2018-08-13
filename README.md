@@ -1,4 +1,4 @@
-# intro-pythone
+# intro-python
 
 Some selected codes that I created through online coursework
 
